@@ -3,10 +3,16 @@ Owner of Kings Store Wants us to help them create a dashboard to track and analy
 
 
 #Opperations#
+
 Data Collection.
+
 Data Cleaning And Wrangling.
+
 Data Modelling.
+
 Data Visualization.
+
 DashBoard Design.
+
 Sharing Insights.
 
